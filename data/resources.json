@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Forsyth Library",
+    "location": "1 East 4th Street, Forsyth Library Building",
+    "description": "Main academic library providing research resources, computer access, study spaces, and librarian support for all FHSU students and faculty.",
+    "category": "Academic Support",
+    "website": "https://www.fhsu.edu/library/",
+    "contact": "(785) 628-4541"
+  },
+  {
+    "id": 2,
+    "name": "Writing Center",
+    "location": "Forsyth Library, Room 015",
+    "description": "Free peer tutoring and writing consultation services to help students develop writing skills and improve academic writing assignments.",
+    "category": "Academic Support",
+    "website": "https://www.fhsu.edu/writing-center/",
+    "contact": "(785) 628-4534"
+  },
+  {
+    "id": 3,
+    "name": "Career Services",
+    "location": "Sheridan Hall, Suite 203",
+    "description": "Career counseling, resume assistance, interview preparation, job search resources, and employer networking events for FHSU students.",
+    "category": "Career Development",
+    "website": "https://www.fhsu.edu/career-services/",
+    "contact": "(785) 628-5865"
+  },
+  {
+    "id": 4,
+    "name": "Student Health Services",
+    "location": "Custer Hall, Health Center",
+    "description": "On-campus medical clinic providing healthcare services, wellness programs, immunizations, and health counseling for enrolled FHSU students.",
+    "category": "Health Services",
+    "website": "https://www.fhsu.edu/healthservices/",
+    "contact": "(785) 628-4401"
+  },
+  {
+    "id": 5,
+    "name": "Information Technology Services",
+    "location": "Rarick Hall, IT Help Desk",
+    "description": "Technical support for FHSU technology services, network access, software support, computer labs, and IT troubleshooting assistance.",
+    "category": "Technology Support",
+    "website": "https://www.fhsu.edu/its/",
+    "contact": "(785) 628-4357"
+  },
+  {
+    "id": 6,
+    "name": "Office of Student Affairs",
+    "location": "Memorial Union, Room 210",
+    "description": "Student life programs, orientation, leadership development, student conduct, and support services for the FHSU student community.",
+    "category": "Student Services",
+    "website": "https://www.fhsu.edu/studentaffairs/",
+    "contact": "(785) 628-4537"
+  },
+  {
+    "id": 7,
+    "name": "Academic Advising Center",
+    "location": "Sheridan Hall, Suite 104",
+    "description": "Professional academic advising to help students plan course selection, major requirements, and academic success strategies.",
+    "category": "Academic Support",
+    "website": "https://www.fhsu.edu/advising/",
+    "contact": "(785) 628-4236"
+  },
+  {
+    "id": 8,
+    "name": "Disability Services",
+    "location": "Sheridan Hall, Room 106",
+    "description": "Accommodations and support services for students with disabilities including testing accommodations, accessible facilities, and assistive technology.",
+    "category": "Student Services",
+    "website": "https://www.fhsu.edu/disability/",
+    "contact": "(785) 628-4401"
+  }
+]
+
+
+
